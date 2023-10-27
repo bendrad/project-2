@@ -34,6 +34,9 @@ This analysis provides valuable insights into how demographic and transactional 
 2. Clone the repository to your local using git clone.
 3. Open Jupyter Notebook and run the notebook from the cloned directory.
 
+**Tableau**
+https://public.tableau.com/views/SupermarketCustomers/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 **Contributor**
 Akbar Rinaldi - Writer and Analyst
 
