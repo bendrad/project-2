@@ -37,6 +37,9 @@ This analysis provides valuable insights into how demographic and transactional 
 **Tableau**
 https://public.tableau.com/views/SupermarketCustomers/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
+**Presentation**
+https://www.canva.com/design/DAFzR9qW8HM/vs8gN3Q4ljVfEg_YZynq3g/edit?utm_content=DAFzR9qW8HM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 **Contributor**
 Akbar Rinaldi - Writer and Analyst
 
